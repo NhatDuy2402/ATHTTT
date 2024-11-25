@@ -3,7 +3,7 @@
 1. DNS map [https://www.youtube.com/watch?v=_Jq-KfodHn8&ab_channel=QuangPh%C6%B0%C6%A1ngL%C6%B0u](https://www.youtube.com/watch?v=_Jq-KfodHn8)
 2. DNSEnum [https://www.youtube.com/watch?v=T9rwg4Dx2mk&ab_channel=QuangPh%C6%B0%C6%A1ngL%C6%B0u](https://www.youtube.com/watch?v=T9rwg4Dx2mk)
 3. Đăng ký công cụ Maltego: http://www.paterva.com/web7/community/community.php  
-4. Link tham khảo Maltego:
+4. Link tham khảo Maltego:  
 https://www.youtube.com/watch?v=ZWoYr7ybRpk  
 https://www.youtube.com/watch?v=Wba3LBqup6M  
 Link download:  
