@@ -22,21 +22,21 @@ Sinh viên cần đăng ký tài khoản sử dụng Nessus: https://www.tenable
 6. ZenMap https://www.youtube.com/watch?v=-V61yufnR1s  
 7. Nessus https://www.youtube.com/watch?v=GOQF3pbQfMA  
 
-8. Link download phần mềm Nessus cài đặt trên Windows: https://drive.google.com/u/0/uc?id=1P-GxCe2WXRkGfFv6jpChUT8W93-LIHCI&export=download
-Sinh viên cần đăng ký tài khoản sử dụng Nessus trước đó: https://www.tenable.com/lp/campaigns/22/try-tenable-io/
-Link clip tham khảo:
-https://www.youtube.com/watch?v=yg9z8GHm1Bo
-https://www.youtube.com/watch?v=GOQF3pbQfMA
-Sinh viên triển khai ứng dụng mã hóa, giải mã Caesar, Vigenere theo hướng dẫn.
+8. Link download phần mềm Nessus cài đặt trên Windows: https://drive.google.com/u/0/uc?id=1P-GxCe2WXRkGfFv6jpChUT8W93-LIHCI&export=download  
+Sinh viên cần đăng ký tài khoản sử dụng Nessus trước đó: https://www.tenable.com/lp/campaigns/22/try-tenable-io/  
+Link clip tham khảo:  
+https://www.youtube.com/watch?v=yg9z8GHm1Bo  
+https://www.youtube.com/watch?v=GOQF3pbQfMA  
+Sinh viên triển khai ứng dụng mã hóa, giải mã Caesar, Vigenere theo hướng dẫn.  
 9. Attack - MS12-020 cho Windows XP, 2k3 server https://www.youtube.com/watch?v=be1jCglfH0g
 
 10. Attack - Hack Windows 2008 server https://www.youtube.com/watch?v=MeLtoa_KDPY
-11. Attack Windows 2008 server _Metepreter commands https://www.youtube.com/watch?v=qZ5vS1JqvC8
-12. Attack SQLMap https://www.youtube.com/watch?v=7AvgVMEPhko
-Website test:
-http://testphp.vulnweb.com/listproducts.php?cat=1
-http://testphp.vulnweb.com/search.php?test=query
-http://testphp.vulnweb.com/artists.php?artist=1
-13. Attack - MS12-020 cho Windows 7, W2k8 server https://www.youtube.com/watch?v=be1jCglfH0g
+11. Attack Windows 2008 server _Metepreter commands https://www.youtube.com/watch?v=qZ5vS1JqvC8  
+12. Attack SQLMap https://www.youtube.com/watch?v=7AvgVMEPhko  
+Website test:  
+http://testphp.vulnweb.com/listproducts.php?cat=1  
+http://testphp.vulnweb.com/search.php?test=query  
+http://testphp.vulnweb.com/artists.php?artist=1  
+13. Attack - MS12-020 cho Windows 7, W2k8 server https://www.youtube.com/watch?v=be1jCglfH0g  
 14. Privilege Escalation - MS11-080 W2k3 server, W.7, W2k8 server https://www.youtube.com/watch?v=NUIE2i1zsHc
 15. 
